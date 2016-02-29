@@ -15,6 +15,10 @@ directa con el streamer.
 Follow me at:
 
 http://www.twitch.tv/Dinamicka_
+
 http://www.facebook.com/Dinamicka
+
 http://www.twitter.com/NicolasCongost
+
 http://www.instagram.com/NicolasCongost
+
