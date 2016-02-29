@@ -134,6 +134,22 @@ CMD: !waifu
 
   Recibe una waifu gratis. [cambia en cada stream]
 
+// HEY CHECK THIS SONG!
+CMD: !escucha "link de yt o sc"
+
+  Agrega una canción a mi playlist para escucharla en el stream, el uso es !escucha y el link del video en youtube o
+la canción en soundcloud.
+
+
+// EDIT AUTO DJ [ONLY FOR MODS]
+CMD: !autodj remove #1,2,3,etc.
+CMD: !autodj skip
+CMD: !autodj clear
+
+  Estos comandos son exclusivos de moderadores, los moderadores pueden decidir cuando skipear una canción o simplemente
+sacarla de la playlist si consideran que no son aptas para el stream.
+
+
   
 --------------------------------------------------------------------------------------------------------------------
 
