@@ -129,6 +129,12 @@ CMD: !pokeduelo "usuario"
 
   Reta a un duelo a otro usuario. [Timeout desactivado]
   
+// I WANT A WAIFU!
+CMD: !waifu
+
+  Recibe una waifu gratis. [cambia en cada stream]
+
+  
 --------------------------------------------------------------------------------------------------------------------
 
 ========================================= TODOS LOS COMANDOS EN LISTA ==============================================
@@ -160,6 +166,7 @@ CMD: !pokeduelo "usuario"
 !level        | To see your level.
 !toplevels    | To see global top levels. [I Can use this for make events and bring giveaways]
 !pokeduelo    | To duel with other viewer. [Timeout Disable]
+!waifu        | To recive a free waifu [They'change on streams]
 
 
 
