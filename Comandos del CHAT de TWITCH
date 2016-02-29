@@ -1,0 +1,163 @@
+# Twitch
+Comandos del chat de Twitch
+
+A continuación van a ver una serie de comandos utilizables en el chat del canal de twitch de Dinamicka (http://www.twitch.tv/Dinamicka_)
+
+  Existen 3 tipos de comandos, cada comando brinda una respuesta inmediata a los usuarios y ayuda a mantener la comunicación
+entre el streamer y los seguidores.
+  
+  Si bien la mayoría de los comandos son basados en el meta.fun para incrementar el nivel de diversión de los viewers
+que pueden enviar duelos, rollear dados, competir en tops y subir niveles, también existen comandos para la interacción
+directa con el streamer. A continuación dejamos primero la lista de comandos interactivos | público - caster |
+
+
+:: COMANDOS INTERACTIVOS CON EL CASTER ::
+Apartado: Osu!
+
+
+// SONG REQUEST
+CMD: "just a link"
+
+  Existe la posibilidad actualmente de hacer una songrequest para que Dinamicka juegue una canción a pedido del público,
+no existe necesidad de poner ningún comando específico, para utilizar esta opción simplemente tenemos que pegar el link
+del mapa que querramos hacer request en el chat de twitch y listo, el bot MIKUIA automáticamente enviará la petición
+a la lista de espera de mapas elegidos por el público.
+
+// NOW PLAYING
+CMD: !np
+
+  El now playing sale en la parte superior del video como un texto que se mueve constantemente donde podemos hallar el
+nombre de la canción actual que se está jugando por el streamer, para obtener información adicional sobre la song
+solo debemos digitar en el chat !np y Osu!StreamCompanion brindara todos los datos incluído el link de descarga
+
+// CURRENT SONG
+CMD: !currentsong
+
+  Casi exáctamente lo mismo que el comando anterior.
+  
+// KEYCOUNT
+CMD: !keycount
+
+  Este comando brinda la información de la cantidad de veces que fueron tapeadas las teclas en la sesión actual, las teclas
+que utiliza Dinamicka son "Z" y "X" (por default)
+
+// SKIN
+CMD: !skin
+
+  Comando utilizado para obtener el link de descarga de la versión actual de la SKIN de Dinamicka (DinaSkin) [Actualmente PRIVADA]
+  
+// PROFILE
+CMD: !osudina
+
+  Con este comando obtendremos directamente un link para ingresar al perfil de Osu! de Dinamicka.
+  
+// WANT TO PLAY WITH DINA!
+CMD: !multi
+
+  Otorga a quien la utilice, los datos de la partida MULTIJUGADOR en #Osu! que se esté llevando a cabo en el stream.
+
+  
+--------------------------------------------------------------------------------------------------------------------
+
+
+:: COMANDOS GENERALES ::
+
+// HOLA
+CMD: !hola
+
+  Comando sin utilidad que brinda un mensaje de bienvenida a los usuarios que ingresen al stream (foreveralones)
+  
+// SOCIAL NETWORKS
+CMD: !instagram
+CMD: !facebook
+CMD: !twitter
+
+  Proporciona los links de las redes oficiales de Dinamicka!
+  
+// FRIENDS
+CMD: !fede
+CMD: !leo
+CMD: !dario [disable]
+
+  Comando con frases de mis mejores amigos.
+
+// GAMING NETWORK
+CMD: !steam
+
+  Brinda el link directo hacia el perfil oficial de Dinamicka
+  
+// QUOTE
+CMD: !quote
+
+  Publica frases celebres de los viewers con fecha y juego que se jugaba en el momento.
+  
+// STREAM UPTIME
+CMD: !uptime
+
+  Brinda a los recien llegados el tiempo exacto que lleva Dinamicka de directo!
+  
+// FOLLOWER RELATIONSHIP
+CMD: !check
+
+  Comando que brinda información a cerca del tiempo que lleva el usuario siguiendo mi canal.
+  
+// THE DICE
+CMD: !dado
+
+  Tira un dado en la mesa (sirve para eventos dentro del canal y para jugar entre los viewers)
+  
+// BRING ME ALL THE EXP!
+CMD: !level
+
+  Brinda información al usuario que la utiliza de que nivel es y cuanta experiencia tiene (GLOBAL)
+  
+// LET'S FARM!
+CMD: !toplevels
+
+  Brinda al chat el link al TOP de viewers con más nivel del stream! (Mecánica que se utilizará para hacer sorteos!)
+  
+  
+// LET'S BATTLE!
+CMD: !pokeduelo "usuario"
+
+  Reta a un duelo a otro usuario. [Timeout desactivado]
+  
+--------------------------------------------------------------------------------------------------------------------
+
+========================================= TODOS LOS COMANDOS EN LISTA ==============================================
+
+--------------------------------------------------------------------------------------------------------------------
+
+#Osu!:
+!np           | [NOW PLAYING] + Link
+!songrequest  | To SEND a Song Request
+!currentsong  | Same like NP
+!keycount     | "Z" "X" Counter
+!osudina      | Profile information
+!skin         | Link for DINASKIN [Private]
+!multi        | Bring MULTIPLAYER information [if we are playing multi]
+
+#3rd PARTY:
+!hola         | Just "Hello".
+!facebook     | Oficial Dinamicka's Facebook fanpage.
+!twitter      | Oficial Dinamicka's Twitter.
+!instagram    | Personal Dinamicka's Instagram. [Follow if you want!]
+!fede         | Best friend textual joke.
+!leo          | Best friend textual joke.
+!dario        | Best friend textual joke. [Disabled]
+!steam        | Bring users Dinamicka's STEAM Community account.
+!quote        | Bring a RANDOM Quote message from viewers. [Only in spanish]
+!uptime       | Show a REAL UPTIME information of the stream.
+!check        | This command show a friendship with the Follower and the Streamer.
+!level        | To see your level.
+!toplevels    | To see global top levels. [I Can use this for make events and bring giveaways]
+!pokeduelo    | To duel with other viewer. [Timeout Disable]
+
+
+
+
+
+
+
+Si agrego más comandos, van a aparecer en esta lista.
+If i add more commands, they'be on this list.
