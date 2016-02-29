@@ -62,6 +62,12 @@ CMD: !multi
 
 :: COMANDOS GENERALES ::
 
+// PAYMENT SYSTEM
+CMD: !dinacoins
+CMD: !dinacoins pay "username"
+CMD: !dinacoins give "username"
+  Te muestra la cantidad de coins que tenes! [Sirven para comprar juegos y diferentes cosas]
+
 // HOLA
 CMD: !hola
 
@@ -138,6 +144,7 @@ CMD: !pokeduelo "usuario"
 !multi        | Bring MULTIPLAYER information [if we are playing multi]
 
 #3rd PARTY:
+!dinacoins    | Show Dinacoins balance
 !hola         | Just "Hello".
 !facebook     | Oficial Dinamicka's Facebook fanpage.
 !twitter      | Oficial Dinamicka's Twitter.
