@@ -66,6 +66,7 @@ CMD: !multi
 CMD: !dinacoins
 CMD: !dinacoins pay "username"
 CMD: !dinacoins give "username"
+
   Te muestra la cantidad de coins que tenes! [Sirven para comprar juegos y diferentes cosas]
 
 // HOLA
